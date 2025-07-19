@@ -26,9 +26,6 @@
 4. 🤸 [Quick Start](#quick-start)
 6. 🔗 [Assets](#links)
 
-
-<a target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
 ## <a name="introduction">🤖 Introduction</a>
 
 Built with Next.js for handling the user interface, Three.js for rendering 3D elements, Framer motion for beautiful animations, and styled with TailwindCSS, this portfolio demonstrates the developer's skills in a unique manner that creates a lasting impact.
@@ -73,8 +70,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/portfolio.git
-cd portfolio
+git clone https://github.com/shubhraj-singh/ShubhRaj_Portfolio.git
+cd ShubhRaj_Portfolio
 ```
 
 **Installation**
